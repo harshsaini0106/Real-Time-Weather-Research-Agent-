@@ -111,15 +111,6 @@ What is the capital of Japan and what is the weather there right now?
 
 ---
 
-## 📸 Demo
-
-Add your application screenshot here:
-
-```markdown
-![Demo](screenshot.png)
-```
-
----
 
 ## 👨‍💻 Author
 
