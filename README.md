@@ -11,6 +11,11 @@ The agent can:
 
 ---
 
+## Screenshot of Application
+
+<img width="1136" height="563" alt="Screenshot 2026-06-17 161948" src="https://github.com/user-attachments/assets/8d651684-be7e-45cf-b64b-32d848ed071d" />
+
+
 ## 🚀 Features
 
 - LangGraph ReAct Agent
